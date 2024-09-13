@@ -41,15 +41,3 @@ tic-tac-toe/
 ### JavaScript
 
 - `script.js`: Contains the JavaScript code that manages the game logic, including player moves, win conditions, and game reset functionality.
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
-
-## Contact
-
-For any inquiries or feedback, please contact ayabhishek777@gmail.com.
-
----
-
-Thank you for playing the Tic Tac Toe game! We hope you enjoy the classic fun and challenge.
